@@ -1,0 +1,42 @@
+---
+title: "Isabelle Langrock"
+image: about.jpg
+about:
+  template: trestles
+  links:
+  - icon: twitter
+    text: Twitter
+    href: https://twitter.com
+  - icon: github
+    text: Github
+    href: https://github.com
+  - icon: google scholar 
+    text: Google Scholar
+    href: https://scholar.google.com/citations?user=Vq9iRYUAAAAJ&hl=en&authuser=1
+  - icon: email 
+    text: isabelle.langrock@asc.upenn.edu 
+---
+
+Hello! 
+
+I am a PhD Candidate at the Annenberg School for Communication at the University of Pennsylvania. My main research interests are digital inequality, systems of knowledge production, and social movements.  My dissertation project combines all three of these interests and seeks to understand how feminist knowledge activists intervene within the wide gender gaps that exist in open knowledge systems like Wikipedia and Open Source Software. My work speaks to the inter-disciplinary domains of digital governance and organization, information environments, and social activism. I'm a computational social scientist with a particular love for network analysis, text analysis, and digital trace data. 
+
+Prior to grad school, I spent a few years working at the education non-profit Girls Who Code in New York City after receiving my B.A. from the University of Chicago. Born and raised in VT, I still identify strongly as a Vermonter despite having lived in 3 very big cities since I left the state. Outside of grad school, I can be found reading novels, making elaborate salads, and walking around the city while listening to gossip podcasts. 
+
+You can find my complete C.V. [here](https://docs.google.com/document/d/1_FD2mAY9qNBXkWODcw8Kfsis0BIhz2Un/edit?usp=sharing&ouid=107560342762696849363&rtpof=true&sd=true) or read more about my [research](Research.qmd) and [teaching](Teaching.qmd). 
+
+Looking for my university profile instead? [This way!](https://www.asc.upenn.edu/people/graduate-student/isabelle-langrock)
+
+## Education
+
+**Annenberg School for Communication, University of Pennsylvania** | Philadelphia, PA
+
+PhD in Communication (Expected Spring 2023)
+M.A. in Communication (2020)
+
+**University of Chicago** | Chicago, IL 
+
+B.A. in History, Philosophy, and Social Studies of Science and Medicine (2015)
+
+
+

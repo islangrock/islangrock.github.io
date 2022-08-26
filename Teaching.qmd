@@ -1,0 +1,42 @@
+---
+title: "Teaching"
+---
+
+Drawing from my own research on digital inequalities, I believe that students need a comprehensive education in the many ways that technology shapes and informs their lives. I hope to prepare students to be more thoughtful technologists, able to understand, analyze, and critique the diverse interesections of technology, politics, and society in ways that will be useful beyond their time in the classroom. Whether I am teaching research methods, coding skills, or theory based seminars I strive to make real-world connections and have students apply the material to events and content relevant to their lives. 
+
+# Teaching Materials 
+::: {.grid}
+::: {.g-col-6}
+## R Labs
+Lab assignments for Comm 522: Intro to Research Methods (required class for first year grad assignments). Designed to introduce students to R and the basics of quantitative social science research. 
+[Github repository here.](https://github.com/islangrock/Comm522_Labs)
+
+## Wikipedia Editing Assignment 
+Original assignment for an undergraduate seminar course. Students edit Wikipedia using on course concepts and are prompted to reflect about digital collaborations and inequities. 
+
+:::
+
+::: {.g-col-6}
+## Digital Feminisms Syllabus 
+An example undergrad seminar class (Last updated 2020) 
+
+## Github Training
+*Using Github for Social Science Research Tutorial* 
+designed for the DiMeNet Research Group (Fall 2021).
+[Find presentation here.](https://github.com/islangrock/Github_Practice/blob/main/2021_10presentation.pdf)
+
+:::
+:::
+
+# Teaching Experience 
+
+I have experience in a range of classrooms, including teaching computational skills to both undergradutes and grad students and leading discussion based seminars. 
+
+At Penn, I've served as a teaching fellow for the following: 
+
+* **Social Networks.** (Fall 2022 and Spring 2020). Instructor: Dr. Sandra González-Bailón. Undergraduate Seminar. 
+* **Introduction to Communication Research.** (Fall 2020). Instructor: Dr. Yph Lelkes. Graduate seminar. 
+* **Digital Inequality.** (Fall 2019). Instructor: Dr. Julia Ticona. Ungraduate Seminar. 
+
+
+
