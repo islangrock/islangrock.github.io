@@ -1,6 +1,5 @@
 
-Check out my website at islangrock.github.io! 
+Personal website made using Quarto (https://quarto.org/docs/websites/). 
 
 
-I made this website using the Kelly template from bootstrapmade.com 
 
