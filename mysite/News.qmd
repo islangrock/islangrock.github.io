@@ -8,5 +8,5 @@ title: "News & Events"
 
 * [*Bridging Wikipedia’s Gender Gap, One Article at a Time*](https://www.asc.upenn.edu/news-events/news/bridging-wikipedias-gender-gap-one-article-time) (Penn News, 2022) by Alina Ladyzhensky
 
-* *WikiMedia Research Showcase* (2021) 
-  + [Watch it on YouTube!](https://www.youtube.com/watch?v=otN3H-hIImQ)
+* *WikiMedia Research Showcase* (July 2021) 
+  + <iframe width="560" height="315" src="https://www.youtube.com/embed/otN3H-hIImQ?start=2151" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

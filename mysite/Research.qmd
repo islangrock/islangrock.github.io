@@ -24,23 +24,26 @@ As they become available, will update with links to related working papers.
 ## **The Gender Divide in Wikipedia: Quantifying and Assessing the Impact of Two Feminist Interventions** 
 *Journal of Communication* (2022) -- with Sandra González-Bailón 
 
+Paper [here](https://academic.oup.com/joc/article-abstract/72/3/297/6529454?redirectedFrom=fulltext&login=true)
+Video presentation [here](https://www.youtube.com/embed/otN3H-hIImQ?start=2151)
+
 ![](https://github.com/islangrock/islangrock.github.io/blob/master/images/Wiki_1.jpeg?raw=true)
 
 Wikipedia has a well-known gender divide affecting its biographical content. This bias not only shapes social perceptions of knowledge, but it can also propagate beyond the platform as its contents are leveraged to correct misinformation, train machine-learning tools, and enhance search engine results. What happens when feminist movements intervene to try to close existing gaps? Through a quantitative analysis of over 11,000 Wikipedia articles, we provide an evaluation of two popular feminist interventions designed to counteract gender inequality within digital information projects. We find that the interventions are successful at adding content about women that would otherwise be missing, but they are less successful at addressing structural biases that limit the visibility of that content. This leads us to argue for a more granular and cumulative analysis of gender gaps in collaborative environments. We also discuss the implications for future scholarship on digital inequalities.
 
-Paper [here](https://academic.oup.com/joc/article-abstract/72/3/297/6529454?redirectedFrom=fulltext&login=true)
+
  
 ## Protest Networks, Mobilization, and Resilience
 Forthcoming in *Social Networks & Social Resilience* edited by T.A.B.Snijders, E.Lazega & R.Wittek. -- with Sandra González-Bailón 
 
+Available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4154594)
+
 ![](https://github.com/islangrock/islangrock.github.io/blob/master/images/book_chapter_fig.png?raw=true)
 The movement Black Lives Matter has spurred massive, international protests since it first emerged around the eponymous Twitter hashtag in 2013. Social network analysis is well primed to answer questions around how movements like BLM gain traction, create or change story frames, enact policy change, and mobilize supporters, both online and offline. Using BLM as an exemplar, this chapter reviews research about the movement that uses network approaches to understand its emergence, growth, and resilience, especially as it enters its second decade and contends with counter movements. More generally, the chapter offers a discussion of the opportunities and challenges associated with incorporating social media data to the analysis of resilience as it manifests in the growth of networked social movements. 
 
-Available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4154594)
+
 
 # Working Papers & Current Projects
-
-## Wikipedia Paper #2 -- updates soon! 
 
 ## Open Science, Closed Citations (with Mia Jovanova)
 
