@@ -16,7 +16,7 @@ website:
       - Teaching.qmd
       - News.qmd
   page-footer: 
-    right: "Last updated: August 2022" 
+    right: "Last updated: September 2022" 
 
 format:
   html:
