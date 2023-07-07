@@ -1,38 +1,24 @@
 [
   {
-    "objectID": "Teaching.html",
-    "href": "Teaching.html",
-    "title": "Teaching",
+    "objectID": "Test.html",
+    "href": "Test.html",
+    "title": "mysite",
     "section": "",
-    "text": "Drawing from my own research on digital inequalities, I believe that students need a comprehensive education in the many ways that technology shapes and informs their lives. I hope to prepare students to be more thoughtful technologists, able to understand, analyze, and critique the diverse interesections of technology, politics, and society in ways that will be useful beyond their time in the classroom. Whether I am teaching research methods, coding skills, or theory based seminars I strive to make real-world connections and have students apply the material to events and content relevant to their lives."
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\n\nabout"
   },
   {
-    "objectID": "Teaching.html#r-labs",
-    "href": "Teaching.html#r-labs",
-    "title": "Teaching",
-    "section": "R Labs",
-    "text": "R Labs\nLab assignments for Comm 522: Intro to Research Methods (required class for first year grad assignments). Designed to introduce students to R and the basics of quantitative social science research. Github repository here."
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Isabelle Langrock",
+    "section": "",
+    "text": "Hello!\nI am currently a postdoctoral researcher at Le Centre de Recherche sur les Inégalités Sociales (The Center for Research on Social Inequalities) at Sciences Po in Paris, France. At Sciences Po, I’m working with Dr. Jen Schradie to better understand online information environments in the US and France.\nI recieved my PhD from the Annenberg School for Communication at the University of Pennsylvania in May 2023. My Dissertation, “The Irony of Openness: Gender Inequality in Self-Governed Knowledge Systems” built a framework for investigating gender gaps across different forms of open knowledge production, including Wikipedia and Open Source Software. I evaluated the work of feminist activists intervening in these gaps in order to identify how inequitable forms of knowledge production persist and the strategies through which they can be overcome. My work speaks to the inter-disciplinary domains of digital governance and organization, information environments, and social activism. I’m a computational social scientist with a particular love for network analysis, text analysis, and digital trace data.\nPrior to grad school, I spent a few years working at the education non-profit Girls Who Code in New York City after receiving my B.A. from the University of Chicago. Born and raised in VT, I still identify strongly as a Vermonter despite having lived in four very big cities since I left the state. Outside of grad school, I can be found reading novels, making elaborate salads, and walking around the city while listening to gossip podcasts.\nLooking for my university profile instead? This way!"
   },
   {
-    "objectID": "Teaching.html#wikipedia-editing-assignment",
-    "href": "Teaching.html#wikipedia-editing-assignment",
-    "title": "Teaching",
-    "section": "Wikipedia Editing Assignment",
-    "text": "Wikipedia Editing Assignment\nOriginal assignment for an undergraduate seminar course. Students edit Wikipedia using on course concepts and are prompted to reflect about digital collaborations and inequities."
-  },
-  {
-    "objectID": "Teaching.html#digital-feminisms-syllabus",
-    "href": "Teaching.html#digital-feminisms-syllabus",
-    "title": "Teaching",
-    "section": "Digital Feminisms Syllabus",
-    "text": "Digital Feminisms Syllabus\nAn example undergrad seminar class (Last updated 2020)"
-  },
-  {
-    "objectID": "Teaching.html#github-training",
-    "href": "Teaching.html#github-training",
-    "title": "Teaching",
-    "section": "Github Training",
-    "text": "Github Training\nUsing Github for Social Science Research Tutorial designed for the DiMeNet Research Group (Fall 2021). Find presentation here."
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Isabelle Langrock",
+    "section": "Education",
+    "text": "Education\nAnnenberg School for Communication, University of Pennsylvania | Philadelphia, PA\nPhD in Communication (2023)\nM.A. in Communication (2020)\nUniversity of Chicago | Chicago, IL\nB.A. in History, Philosophy, and Social Studies of Science and Medicine (2015)"
   },
   {
     "objectID": "Research.html",
@@ -42,11 +28,11 @@
     "text": "For a full list of publications and conference presentations see my CV here."
   },
   {
-    "objectID": "Research.html#working-title-digital-inequalities-feminist-activism-and-open-knowledge-production",
-    "href": "Research.html#working-title-digital-inequalities-feminist-activism-and-open-knowledge-production",
+    "objectID": "Research.html#the-irony-of-openness-gender-inequality-in-self-governed-knowledge-systems",
+    "href": "Research.html#the-irony-of-openness-gender-inequality-in-self-governed-knowledge-systems",
     "title": "Research",
-    "section": "Working Title Digital Inequalities, Feminist Activism, and Open Knowledge Production",
-    "text": "Working Title Digital Inequalities, Feminist Activism, and Open Knowledge Production\nIn this project I investigate the Irony of Openness: as digital technologies have and strong set of meritocratic norms have made it easier than ever to participate in the creation, maintenance, and archiving of knowledge, extensive gender gaps both among knowledge creators and within content persist. The first part of my dissertation draws on theories of the commons and public sphere to build a framework of openness that operates across different knowledge projects and activist efforts. This framework is crucial for thinking beyond an open/closed dichotomy, instead focusing on openness as a range of negotiated activities and norms. The second half of my dissertation looks at three open knowledge case studies and related cases of feminist knowledge activism in order to empirically demonstrate how openness is negotiated within a community and to evaluate attempts at building more equitable knowledge production processes.\nThe Case Studies\n\nWikipedia and Feminist Edit-a-thons\nOpen Source Software and women led projects\nOpen Science and the emerging citational justice movement\n\nAs they become available, will update with links to related working papers."
+    "section": "The Irony of Openness: Gender Inequality in Self-Governed Knowledge Systems",
+    "text": "The Irony of Openness: Gender Inequality in Self-Governed Knowledge Systems\nIn this project I investigate the Irony of Openness: as digital technologies have and strong set of meritocratic norms have made it easier than ever to participate in the creation, maintenance, and archiving of knowledge, extensive gender gaps both among knowledge creators and within content persist. The first part of my dissertation draws on theories of the commons and public sphere to build a framework of openness that operates across different knowledge projects and activist efforts. This framework is crucial for thinking beyond an open/closed dichotomy, instead focusing on openness as a range of negotiated activities and norms. The second half of my dissertation looks at three open knowledge case studies and related cases of feminist knowledge activism in order to empirically demonstrate how openness is negotiated within a community and to evaluate attempts at building more equitable knowledge production processes.\nThe Case Studies\n\nWikipedia and Feminist Edit-a-thons\nOpen Source Software and women led projects\nOpen Science and the emerging citational justice movement"
   },
   {
     "objectID": "Research.html#the-gender-divide-in-wikipedia-quantifying-and-assessing-the-impact-of-two-feminist-interventions",
@@ -84,25 +70,46 @@
     "text": "Banned Books\n\nWith Katie Spoon (U Colorado Boulder), Jack LaViolette (Columbia), and Marcelo Silva (Duke)\nIn the 2021-2022 school year, more books were banned in U.S. school districts than in any previous year. Book banning and other forms of censorship have been shown to have serious consequences on democracy, and censorship is an especially relevant concern in the current U.S. political climate. However, there is little empirical work on the nature of the book bans. In particular, we have three aims: to identify patterns in (1) the types of books and authors who are the subject of the bans, (2) the districts that ban books, and (3) how attention around a book shifts once the book is banned. To meet these aims we combine PEN America’s list of 1,586 book bans in the US, self-identified author demographic information for the nearly 800 authors of the books, U.S. school district metadata, and several digital trace data sets, including Google Books profiles, Google Trends, Goodreads reviews, and Twitter discussions. This research contributes to our understanding of the renewed vigor around book bans and seeks to better contextualize its effects in our digitally mediated information environment.\nThis project is funded by a grant from the Social Science Research Council."
   },
   {
+    "objectID": "Teaching.html",
+    "href": "Teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Drawing from my own research on digital inequalities, I believe that students need a comprehensive education in the many ways that technology shapes and informs their lives. I hope to prepare students to be more thoughtful technologists, able to understand, analyze, and critique the diverse interesections of technology, politics, and society in ways that will be useful beyond their time in the classroom. Whether I am teaching research methods, coding skills, or theory based seminars I strive to make real-world connections and have students apply the material to events and content relevant to their lives."
+  },
+  {
+    "objectID": "Teaching.html#r-labs",
+    "href": "Teaching.html#r-labs",
+    "title": "Teaching",
+    "section": "R Labs",
+    "text": "R Labs\nLab assignments for Comm 522: Intro to Research Methods (required class for first year grad assignments). Designed to introduce students to R and the basics of quantitative social science research. Github repository here."
+  },
+  {
+    "objectID": "Teaching.html#wikipedia-editing-assignment",
+    "href": "Teaching.html#wikipedia-editing-assignment",
+    "title": "Teaching",
+    "section": "Wikipedia Editing Assignment",
+    "text": "Wikipedia Editing Assignment\nOriginal assignment for an undergraduate seminar course. Students edit Wikipedia using on course concepts and are prompted to reflect about digital collaborations and inequities."
+  },
+  {
+    "objectID": "Teaching.html#digital-feminisms-syllabus",
+    "href": "Teaching.html#digital-feminisms-syllabus",
+    "title": "Teaching",
+    "section": "Digital Feminisms Syllabus",
+    "text": "Digital Feminisms Syllabus\nAn example undergrad seminar class (Last updated 2020)"
+  },
+  {
+    "objectID": "Teaching.html#github-training",
+    "href": "Teaching.html#github-training",
+    "title": "Teaching",
+    "section": "Github Training",
+    "text": "Github Training\nUsing Github for Social Science Research Tutorial designed for the DiMeNet Research Group (Fall 2021). Find presentation here."
+  },
+  {
     "objectID": "News.html",
     "href": "News.html",
     "title": "News & Events",
     "section": "",
-    "text": "Art + Feminism Community Hour Session (September 2022)\n\nDetails here\nVideo forthcoming!\n\nBridging Wikipedia’s Gender Gap, One Article at a Time (Penn News, 2022) by Alina Ladyzhensky\nWikiMedia Research Showcase (July 2021)"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Isabelle Langrock",
-    "section": "",
-    "text": "Hello!\nI am a PhD Candidate at the Annenberg School for Communication at the University of Pennsylvania. I expect to complete my PhD in the spring of 2023. My main research interests are digital inequality, systems of knowledge production, and social movements. My dissertation project combines all three of these interests and seeks to understand how feminist knowledge activists intervene within the wide gender gaps that exist in open knowledge systems like Wikipedia and Open Source Software. My work speaks to the inter-disciplinary domains of digital governance and organization, information environments, and social activism. I’m a computational social scientist with a particular love for network analysis, text analysis, and digital trace data.\nPrior to grad school, I spent a few years working at the education non-profit Girls Who Code in New York City after receiving my B.A. from the University of Chicago. Born and raised in VT, I still identify strongly as a Vermonter despite having lived in three very big cities since I left the state. Outside of grad school, I can be found reading novels, making elaborate salads, and walking around the city while listening to gossip podcasts.\nLooking for my university profile instead? This way!"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Isabelle Langrock",
-    "section": "Education",
-    "text": "Education\nAnnenberg School for Communication, University of Pennsylvania | Philadelphia, PA\nPhD in Communication (Expected Spring 2023) M.A. in Communication (2020)\nUniversity of Chicago | Chicago, IL\nB.A. in History, Philosophy, and Social Studies of Science and Medicine (2015)"
+    "text": "I successfully defend my dissertation and move to Paris to begin a post doc at Science Po (May/June 2023)\nMy article with Sandra González-Bailón about Interventions in Wikipedia’s Gender Gaps wins the Wikimedia Foundation Research Award of The Year for 2023!!\nI discussed How Wikipedia Works on the Brooking’s Institute Tech Tank Podcast (March 2023)\n\nListen here\n\nI led an Art + Feminism Community Hour Session (September 2022)\n\nDetails here\n\nA nice article summarizing my work: Bridging Wikipedia’s Gender Gap, One Article at a Time (Penn News, 2022) by Alina Ladyzhensky\nI presented at the WikiMedia Research Showcase (July 2021)"
   },
   {
     "objectID": "about.html",
@@ -110,12 +117,5 @@
     "title": "About",
     "section": "",
     "text": "About this site"
-  },
-  {
-    "objectID": "Test.html",
-    "href": "Test.html",
-    "title": "mysite",
-    "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\n\nabout"
   }
 ]
