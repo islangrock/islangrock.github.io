@@ -5,7 +5,7 @@ title: "Research"
 For a full list of publications and conference presentations see my CV [here](https://docs.google.com/document/d/1_FD2mAY9qNBXkWODcw8Kfsis0BIhz2Un/edit?usp=sharing&ouid=107560342762696849363&rtpof=true&sd=true). 
 
 # Dissertation Project
-## Working Title Digital Inequalities, Feminist Activism, and Open Knowledge Production
+## The Irony of Openness: Gender Inequality in Self-Governed Knowledge Systems 
 
 In this project I investigate the Irony of Openness: as digital technologies have and strong set of meritocratic norms have made it easier than ever to participate in the creation, maintenance, and archiving of knowledge, extensive gender gaps both among knowledge creators and within content persist. The first part of my dissertation draws on theories of the commons and public sphere to build a framework of openness that operates across different knowledge projects and activist efforts. This framework is crucial for thinking beyond an open/closed dichotomy, instead focusing on openness as a range of negotiated activities and norms. The second half of my dissertation looks at three open knowledge case studies and related cases of feminist knowledge activism in order to empirically demonstrate how openness is negotiated within a community and to evaluate attempts at building more equitable knowledge production processes. 
 
@@ -16,7 +16,6 @@ In this project I investigate the Irony of Openness: as digital technologies hav
 2. *Open Source Software and women led projects* 
 3. *Open Science and the emerging citational justice movement* 
 
-As they become available, will update with links to related working papers. 
 
 # Selected Publications 
 
@@ -70,3 +69,4 @@ Wikipedia’s gender gap is well documented, with large discrepancies identified
 In the 2021-2022 school year, more books were banned in U.S. school districts than in any previous year. Book banning and other forms of censorship have been shown to have serious consequences on democracy, and censorship is an especially relevant concern in the current U.S. political climate. However, there is little empirical work on the nature of the book bans. In particular, we have three aims: to identify patterns in (1) the types of books and authors who are the subject of the bans, (2) the districts that ban books, and (3) how attention around a book shifts once the book is banned. To meet these aims we combine PEN America’s list of 1,586 book bans in the US, self-identified author demographic information for the nearly 800 authors of the books, U.S. school district metadata, and several digital trace data sets, including Google Books profiles, Google Trends, Goodreads reviews, and Twitter discussions. This research contributes to our understanding of the renewed vigor around book bans and seeks to better contextualize its effects in our digitally mediated information environment.
 
 This project is funded by a grant from the Social Science Research Council. 
+

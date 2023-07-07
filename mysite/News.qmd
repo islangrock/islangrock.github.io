@@ -2,11 +2,17 @@
 title: "News & Events"
 ---
 
-* *Art + Feminism Community Hour Session* (September 2022)
+* I successfully defend my dissertation and move to Paris to begin a post doc at Science Po (May/June 2023)
+
+* My article with Sandra González-Bailón about Interventions in Wikipedia's Gender Gaps wins the [Wikimedia Foundation Research Award of The Year](https://research.wikimedia.org/awards.html) for 2023!! 
+
+* I discussed *How Wikipedia Works* on the Brooking's Institute Tech Tank Podcast (March 2023)
+  + Listen [here](https://www.brookings.edu/articles/techtank-episode-66-how-wikipedia-works/)
+
+* *I led an Art + Feminism Community Hour Session* (September 2022)
   + Details [here](https://artandfeminism.org/research-closing-wikipedias-gender-gaps/)
-  + Video forthcoming! 
 
-* [*Bridging Wikipedia’s Gender Gap, One Article at a Time*](https://www.asc.upenn.edu/news-events/news/bridging-wikipedias-gender-gap-one-article-time) (Penn News, 2022) by Alina Ladyzhensky
+* A nice article summarizing my work: [*Bridging Wikipedia’s Gender Gap, One Article at a Time*](https://www.asc.upenn.edu/news-events/news/bridging-wikipedias-gender-gap-one-article-time) (Penn News, 2022) by Alina Ladyzhensky
 
-* *WikiMedia Research Showcase* (July 2021) 
+* I presented at the *WikiMedia Research Showcase* (July 2021) 
   + <iframe width="560" height="315" src="https://www.youtube.com/embed/otN3H-hIImQ?start=2151" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
