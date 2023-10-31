@@ -6,10 +6,9 @@ published-title: Langrock CV updated
 engine: knitr
 
 cv: 
-
   pdf: "https://github.com/islangrock/islangrock.github.io/blob/811ca8d01b39349f25792bc49b96e729209639eb/images/Langrock_CV.pdf"
 ---
-Last Updated: October 2023
+*Last Updated: October 2023*
 
 ```{css, echo=FALSE}
 
