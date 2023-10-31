@@ -7,7 +7,7 @@ engine: knitr
 
 cv: 
 
-  pdf: "docs/Langrock_CV.pdf"
+  pdf: "images/Langrock_CV.pdf"
 ---
 Last Updated: October 2023
 
