@@ -5,18 +5,20 @@ project:
   
 
 website:
-  title: "Isabelle Langrock"
+  title: "Isabelle Langrock, PhD"
   navbar:
     background: "#d0f0c0" 
     foreground: "#123524"
     right:
       - href: index.qmd
         text: "Home"
+      - CV.qmd
       - Research.qmd
       - Teaching.qmd
       - News.qmd
+
   page-footer: 
-    right: "Last updated: July 2023" 
+    right: "Last updated: October 2023" 
 
 format:
   html:

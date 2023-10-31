@@ -2,50 +2,34 @@
 title: "Research"
 ---
 
-For a full list of publications and conference presentations see my CV [here](https://docs.google.com/document/d/1_FD2mAY9qNBXkWODcw8Kfsis0BIhz2Un/edit?usp=sharing&ouid=107560342762696849363&rtpof=true&sd=true). 
+Technology &Star; Inequality &Star; Activism &Star; Information &Star; Digital Data 
 
-# Dissertation Project
-## The Irony of Openness: Gender Inequality in Self-Governed Knowledge Systems 
+# Current Projects 
 
-In this project I investigate the Irony of Openness: as digital technologies have and strong set of meritocratic norms have made it easier than ever to participate in the creation, maintenance, and archiving of knowledge, extensive gender gaps both among knowledge creators and within content persist. The first part of my dissertation draws on theories of the commons and public sphere to build a framework of openness that operates across different knowledge projects and activist efforts. This framework is crucial for thinking beyond an open/closed dichotomy, instead focusing on openness as a range of negotiated activities and norms. The second half of my dissertation looks at three open knowledge case studies and related cases of feminist knowledge activism in order to empirically demonstrate how openness is negotiated within a community and to evaluate attempts at building more equitable knowledge production processes. 
+## Active Info 
+#### With Jen Schradie (Sciences Po)
+More soon! 
 
+## Changing landscape of data access in social science research
+More soon! 
 
-**The Case Studies** 
+## Book Bans in Political Context: Evidence from US Public Schools 
+#### With Katie Spoon (U Colorado Boulder), Jack LaViolette (Columbia), and Marcelo Silva (Duke)
+*Under Review* 
 
-1. *Wikipedia and Feminist Edit-a-thons* 
-2. *Open Source Software and women led projects* 
-3. *Open Science and the emerging citational justice movement* 
+[Working paper now available!](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4618699) 
 
+In the 2021–2022 school year, more books were banned in U.S. school districts than in any previous year. Book banning and other forms of information censorship have serious implications for democratic processes, and censorship has become a central theme of partisan political rhetoric in the United States. However, there is little empirical work on the exact content, predictors of, and efficacy of this rise in book bans. Using a comprehensive dataset of 2,532 bans that occurred during the 2021–2022 school year from PEN America, combined with county-level administrative data, multiple book-level digital trace datasets, restricted-use book sales data, and a novel crowd-sourced dataset of author demographic information, we find that (i) banned books are disproportionately written by people of color and feature characters of color, both fictional and historical, in children’s books; (ii) counties that have become less conservative over time are more likely to ban books than neighboring counties; and (iii) national levels of interest in books are largely unaffected after they are banned. Together, these results suggest that rather than serving as an effective censorship tactic, book banning in this recent U.S. context, targeted at low-interest children’s books featuring diverse characters, is more similar to a symbolic political action to galvanize shrinking voting blocs.
 
-# Selected Publications 
+This project is funded by a grant from the Social Science Research Council.
 
-## **The Gender Divide in Wikipedia: Quantifying and Assessing the Impact of Two Feminist Interventions** 
-*Journal of Communication* (2022) -- with Sandra González-Bailón 
+## Gender Inequality in the Open Science Movement 
 
-Paper [here](https://academic.oup.com/joc/article-abstract/72/3/297/6529454?redirectedFrom=fulltext&login=true)
+Stemming from my dissertation work, I have two articles that emprically examine gender gaps in the Open Science movement. The first looks specifically at the field of communication while the second looks at the movement leaders who have published work in some way advocating for Open Science practices or related changes in the field. 
 
-Video presentation [here](https://www.youtube.com/embed/otN3H-hIImQ?start=2151)
-
-![](https://github.com/islangrock/islangrock.github.io/blob/master/images/Wiki_1.jpeg?raw=true)
-
-Wikipedia has a well-known gender divide affecting its biographical content. This bias not only shapes social perceptions of knowledge, but it can also propagate beyond the platform as its contents are leveraged to correct misinformation, train machine-learning tools, and enhance search engine results. What happens when feminist movements intervene to try to close existing gaps? Through a quantitative analysis of over 11,000 Wikipedia articles, we provide an evaluation of two popular feminist interventions designed to counteract gender inequality within digital information projects. We find that the interventions are successful at adding content about women that would otherwise be missing, but they are less successful at addressing structural biases that limit the visibility of that content. This leads us to argue for a more granular and cumulative analysis of gender gaps in collaborative environments. We also discuss the implications for future scholarship on digital inequalities.
-
-
- 
-## Protest Networks, Mobilization, and Resilience
-Forthcoming in *Social Networks & Social Resilience* edited by T.A.B.Snijders, E.Lazega & R.Wittek. -- with Sandra González-Bailón 
-
-Available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4154594)
-
-![](https://github.com/islangrock/islangrock.github.io/blob/master/images/book_chapter_fig.png?raw=true)
-The movement Black Lives Matter has spurred massive, international protests since it first emerged around the eponymous Twitter hashtag in 2013. Social network analysis is well primed to answer questions around how movements like BLM gain traction, create or change story frames, enact policy change, and mobilize supporters, both online and offline. Using BLM as an exemplar, this chapter reviews research about the movement that uses network approaches to understand its emergence, growth, and resilience, especially as it enters its second decade and contends with counter movements. More generally, the chapter offers a discussion of the opportunities and challenges associated with incorporating social media data to the analysis of resilience as it manifests in the growth of networked social movements. 
-
-
-
-# Working Papers & Current Projects
-
-## Open Science, Closed Citations 
-### With Mia Jovanova (UPenn)
+### Gender Gaps in Communication's Open Science Movement 
+#### With Mia Jovanova (UPenn)
+*Under Review* 
 
 [Working paper now available!](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4283210)
 
@@ -56,17 +40,37 @@ Communication scholarship is increasingly adopting Open Science (OS) practices: 
 We presented this work at ICA 2022 in Paris, France (Computational Methods Division). 
 You can find our pre-registration [here](https://osf.io/f5cn4/registrations). 
 
+### Gender Gaps in the Open Science Movement: Participation, Citation, Collaboration
+*Under Review* 
 
-## Editing Together: Labor, Governence, and Activism on Wikipedia 
+The Open Science movement has become a rising force within the social sciences in the past decade, working to establish and institutionalize more responsible research practices and building a suite of digital tools that help scientists register, access, and share work at each stage of the scientific process. Yet for all the needed reform offered by the Open Science movement, strong critiques have emerged, particularly around how the community and tools built by Open Science advocates works to exclude certain researchers, often those who belong to specific race and gender demographics. Assembling a sample of over 3,000 published articles about the movement or its practices, I investigate rates of gender inequality within the Open Science movement. I identify and quantify a gender gap among (1) published authors, (2) within citations, and (3) within the co-authorship network. Additionally, using simulated co-authorship networks, I gauge the effects citing more women, a common recommendation from the citational justice movement, would have for gender equity within the Open Science movement. This work sheds light on the development and growth of Open Science within the social sciences and provides empirical evidence of gender gaps in participation and citation. 
 
-Working Paper -- *Coming Soon!*
+# Dissertation Project
+## The Irony of Openness: Gender Inequality in Self-Governed Knowledge Systems 
 
-Wikipedia’s gender gap is well documented, with large discrepancies identified among both editors and within content. Several initiatives have begun to intervene in theses gender gaps, prompting new ways of considering Wikipedia’s governance and systems of editing. In this article, I study the manuals and trainings of three different feminist editing movements and identify their specific approaches to labor, governance, and inequality. Combining literature from labor theorists and platform governance, I argue that these groups focus on adding and editing content, often through new types of labor structures, but largely ignore intervening within Wikipedia's governance structures. While they propose a form of editing together that is often at odds with the typical Wikipedia individualism, the group’s insistence on following Wikipedia’s rules perpetuates potentially biased standards. I conclude by identifying Wikipedia’s own edict of “No firm rules” as a potential avenue for stronger stances around policy change. This article sheds light into the labor of feminist editors and  how social movements can impact governance structures of large organizations. 
+Open knowledge technologies are in many ways the backbone of the Internet, providing reliable information and tools for millions of people every day, often without their awareness. Yet across sites of open knowledge technologies, gender gaps persist and exceed the rates of gender inequality in more closed systems of knowledge production. I deem this pattern the irony of openness. To connect across a range of endeavors I construct a definition of openness applicable to a range of products and participation types. Using a framework of self-governance, I identify the complex set of traits and practices that produce openness and in turn determine the quality of our informational tools and content. Using digital trace data from the processes of knowledge production across three case studies –Wikipedia, Open Source Software, and the Open Science Movement – I both identify repeating forms of gender inequality and evaluate activists attempts to intervene and produce more equitable knowledge. My results indicate both profound gender gaps and document the difficult work of creating change in the governance of open knowledge technologies.
 
-## Banned Books
-### With Katie Spoon (U Colorado Boulder), Jack LaViolette (Columbia), and Marcelo Silva (Duke)
+# Selected Publications 
 
-In the 2021-2022 school year, more books were banned in U.S. school districts than in any previous year. Book banning and other forms of censorship have been shown to have serious consequences on democracy, and censorship is an especially relevant concern in the current U.S. political climate. However, there is little empirical work on the nature of the book bans. In particular, we have three aims: to identify patterns in (1) the types of books and authors who are the subject of the bans, (2) the districts that ban books, and (3) how attention around a book shifts once the book is banned. To meet these aims we combine PEN America’s list of 1,586 book bans in the US, self-identified author demographic information for the nearly 800 authors of the books, U.S. school district metadata, and several digital trace data sets, including Google Books profiles, Google Trends, Goodreads reviews, and Twitter discussions. This research contributes to our understanding of the renewed vigor around book bans and seeks to better contextualize its effects in our digitally mediated information environment.
+## **The Gender Divide in Wikipedia: Quantifying and Assessing the Impact of Two Feminist Interventions** (2022)
+#### *Journal of Communication*
+#### with Sandra González-Bailón 
 
-This project is funded by a grant from the Social Science Research Council. 
+Paper [here](https://academic.oup.com/joc/article-abstract/72/3/297/6529454?redirectedFrom=fulltext&login=true)
+
+Video presentation [here](https://www.youtube.com/embed/otN3H-hIImQ?start=2151)
+
+![](https://github.com/islangrock/islangrock.github.io/blob/master/images/Wiki_1.jpeg?raw=true)
+
+Wikipedia has a well-known gender divide affecting its biographical content. This bias not only shapes social perceptions of knowledge, but it can also propagate beyond the platform as its contents are leveraged to correct misinformation, train machine-learning tools, and enhance search engine results. What happens when feminist movements intervene to try to close existing gaps? Through a quantitative analysis of over 11,000 Wikipedia articles, we provide an evaluation of two popular feminist interventions designed to counteract gender inequality within digital information projects. We find that the interventions are successful at adding content about women that would otherwise be missing, but they are less successful at addressing structural biases that limit the visibility of that content. This leads us to argue for a more granular and cumulative analysis of gender gaps in collaborative environments. We also discuss the implications for future scholarship on digital inequalities.
+
+
+## Protest Networks, Mobilization, and Resilience Book Chapter (2023)
+ *Social Networks & Social Resilience* edited by T.A.B.Snijders, E.Lazega & R.Wittek. -- with Sandra González-Bailón 
+
+Available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4154594)
+
+![](https://github.com/islangrock/islangrock.github.io/blob/master/images/book_chapter_fig.png?raw=true)
+The movement Black Lives Matter has spurred massive, international protests since it first emerged around the eponymous Twitter hashtag in 2013. Social network analysis is well primed to answer questions around how movements like BLM gain traction, create or change story frames, enact policy change, and mobilize supporters, both online and offline. Using BLM as an exemplar, this chapter reviews research about the movement that uses network approaches to understand its emergence, growth, and resilience, especially as it enters its second decade and contends with counter movements. More generally, the chapter offers a discussion of the opportunities and challenges associated with incorporating social media data to the analysis of resilience as it manifests in the growth of networked social movements. 
+
 

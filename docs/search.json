@@ -7,74 +7,25 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\n\nabout"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Isabelle Langrock",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Hello!\nI am currently a postdoctoral researcher at Le Centre de Recherche sur les Inégalités Sociales (The Center for Research on Social Inequalities) at Sciences Po in Paris, France. At Sciences Po, I’m working with Dr. Jen Schradie to better understand online information environments in the US and France.\nI recieved my PhD from the Annenberg School for Communication at the University of Pennsylvania in May 2023. My Dissertation, “The Irony of Openness: Gender Inequality in Self-Governed Knowledge Systems” built a framework for investigating gender gaps across different forms of open knowledge production, including Wikipedia and Open Source Software. I evaluated the work of feminist activists intervening in these gaps in order to identify how inequitable forms of knowledge production persist and the strategies through which they can be overcome. My work speaks to the inter-disciplinary domains of digital governance and organization, information environments, and social activism. I’m a computational social scientist with a particular love for network analysis, text analysis, and digital trace data.\nPrior to grad school, I spent a few years working at the education non-profit Girls Who Code in New York City after receiving my B.A. from the University of Chicago. Born and raised in VT, I still identify strongly as a Vermonter despite having lived in four very big cities since I left the state. Outside of grad school, I can be found reading novels, making elaborate salads, and walking around the city while listening to gossip podcasts.\nLooking for my university page instead? This way!"
+    "text": "About this site"
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Isabelle Langrock",
-    "section": "Education",
-    "text": "Education\nAnnenberg School for Communication, University of Pennsylvania | Philadelphia, PA\nPhD in Communication (2023)\nM.A. in Communication (2020)\nUniversity of Chicago | Chicago, IL\nB.A. in History, Philosophy, and Social Studies of Science and Medicine (2015)"
-  },
-  {
-    "objectID": "Research.html",
-    "href": "Research.html",
-    "title": "Research",
+    "objectID": "News.html",
+    "href": "News.html",
+    "title": "News & Events",
     "section": "",
-    "text": "For a full list of publications and conference presentations see my CV here."
-  },
-  {
-    "objectID": "Research.html#the-irony-of-openness-gender-inequality-in-self-governed-knowledge-systems",
-    "href": "Research.html#the-irony-of-openness-gender-inequality-in-self-governed-knowledge-systems",
-    "title": "Research",
-    "section": "The Irony of Openness: Gender Inequality in Self-Governed Knowledge Systems",
-    "text": "The Irony of Openness: Gender Inequality in Self-Governed Knowledge Systems\nIn this project I investigate the Irony of Openness: as digital technologies have and strong set of meritocratic norms have made it easier than ever to participate in the creation, maintenance, and archiving of knowledge, extensive gender gaps both among knowledge creators and within content persist. The first part of my dissertation draws on theories of the commons and public sphere to build a framework of openness that operates across different knowledge projects and activist efforts. This framework is crucial for thinking beyond an open/closed dichotomy, instead focusing on openness as a range of negotiated activities and norms. The second half of my dissertation looks at three open knowledge case studies and related cases of feminist knowledge activism in order to empirically demonstrate how openness is negotiated within a community and to evaluate attempts at building more equitable knowledge production processes.\nThe Case Studies\n\nWikipedia and Feminist Edit-a-thons\nOpen Source Software and women led projects\nOpen Science and the emerging citational justice movement"
-  },
-  {
-    "objectID": "Research.html#the-gender-divide-in-wikipedia-quantifying-and-assessing-the-impact-of-two-feminist-interventions",
-    "href": "Research.html#the-gender-divide-in-wikipedia-quantifying-and-assessing-the-impact-of-two-feminist-interventions",
-    "title": "Research",
-    "section": "The Gender Divide in Wikipedia: Quantifying and Assessing the Impact of Two Feminist Interventions",
-    "text": "The Gender Divide in Wikipedia: Quantifying and Assessing the Impact of Two Feminist Interventions\nJournal of Communication (2022) – with Sandra González-Bailón\nPaper here\nVideo presentation here\n\nWikipedia has a well-known gender divide affecting its biographical content. This bias not only shapes social perceptions of knowledge, but it can also propagate beyond the platform as its contents are leveraged to correct misinformation, train machine-learning tools, and enhance search engine results. What happens when feminist movements intervene to try to close existing gaps? Through a quantitative analysis of over 11,000 Wikipedia articles, we provide an evaluation of two popular feminist interventions designed to counteract gender inequality within digital information projects. We find that the interventions are successful at adding content about women that would otherwise be missing, but they are less successful at addressing structural biases that limit the visibility of that content. This leads us to argue for a more granular and cumulative analysis of gender gaps in collaborative environments. We also discuss the implications for future scholarship on digital inequalities."
-  },
-  {
-    "objectID": "Research.html#protest-networks-mobilization-and-resilience",
-    "href": "Research.html#protest-networks-mobilization-and-resilience",
-    "title": "Research",
-    "section": "Protest Networks, Mobilization, and Resilience",
-    "text": "Protest Networks, Mobilization, and Resilience\nForthcoming in Social Networks & Social Resilience edited by T.A.B.Snijders, E.Lazega & R.Wittek. – with Sandra González-Bailón\nAvailable here\n The movement Black Lives Matter has spurred massive, international protests since it first emerged around the eponymous Twitter hashtag in 2013. Social network analysis is well primed to answer questions around how movements like BLM gain traction, create or change story frames, enact policy change, and mobilize supporters, both online and offline. Using BLM as an exemplar, this chapter reviews research about the movement that uses network approaches to understand its emergence, growth, and resilience, especially as it enters its second decade and contends with counter movements. More generally, the chapter offers a discussion of the opportunities and challenges associated with incorporating social media data to the analysis of resilience as it manifests in the growth of networked social movements."
-  },
-  {
-    "objectID": "Research.html#open-science-closed-citations",
-    "href": "Research.html#open-science-closed-citations",
-    "title": "Research",
-    "section": "Open Science, Closed Citations",
-    "text": "Open Science, Closed Citations\n\nWith Mia Jovanova (UPenn)\nWorking paper now available!\n\nCommunication scholarship is increasingly adopting Open Science (OS) practices: sharing code and data, pre-registering studies, and conducting replications. Yet, scholars have also critiqued how the OS movement might create barriers and exacerbate inequalities. As the field aims to better support a more diverse body of scholars, it is imperative to understand who participates in OS. In this pre-registered study, we look at one important area of inequality, author gender, among rates of articles that adopt OS practices versus articles unaffiliated with OS practices. Using computational methods, we categorize author gender and use of OS practices across 4,561 quantitative communication articles. We find prevalent gender gaps, such that women are significantly less likely to lead, and co-author, papers that adopt OS practices relative to papers unaffiliated with OS. These gender gaps are unexplained by journal-level differences or publication year. Our results highlight a tension between the aims of the OS movement and efforts to increase inclusivity in the field. A commitment to truly open science requires a commitment to solving participation gaps. Our work aims to spark a conversation towards better, and more equitable, communication research.\nWe presented this work at ICA 2022 in Paris, France (Computational Methods Division). You can find our pre-registration here."
-  },
-  {
-    "objectID": "Research.html#editing-together-labor-governence-and-activism-on-wikipedia",
-    "href": "Research.html#editing-together-labor-governence-and-activism-on-wikipedia",
-    "title": "Research",
-    "section": "Editing Together: Labor, Governence, and Activism on Wikipedia",
-    "text": "Editing Together: Labor, Governence, and Activism on Wikipedia\nWorking Paper – Coming Soon!\nWikipedia’s gender gap is well documented, with large discrepancies identified among both editors and within content. Several initiatives have begun to intervene in theses gender gaps, prompting new ways of considering Wikipedia’s governance and systems of editing. In this article, I study the manuals and trainings of three different feminist editing movements and identify their specific approaches to labor, governance, and inequality. Combining literature from labor theorists and platform governance, I argue that these groups focus on adding and editing content, often through new types of labor structures, but largely ignore intervening within Wikipedia’s governance structures. While they propose a form of editing together that is often at odds with the typical Wikipedia individualism, the group’s insistence on following Wikipedia’s rules perpetuates potentially biased standards. I conclude by identifying Wikipedia’s own edict of “No firm rules” as a potential avenue for stronger stances around policy change. This article sheds light into the labor of feminist editors and how social movements can impact governance structures of large organizations."
-  },
-  {
-    "objectID": "Research.html#banned-books",
-    "href": "Research.html#banned-books",
-    "title": "Research",
-    "section": "Banned Books",
-    "text": "Banned Books\n\nWith Katie Spoon (U Colorado Boulder), Jack LaViolette (Columbia), and Marcelo Silva (Duke)\nIn the 2021-2022 school year, more books were banned in U.S. school districts than in any previous year. Book banning and other forms of censorship have been shown to have serious consequences on democracy, and censorship is an especially relevant concern in the current U.S. political climate. However, there is little empirical work on the nature of the book bans. In particular, we have three aims: to identify patterns in (1) the types of books and authors who are the subject of the bans, (2) the districts that ban books, and (3) how attention around a book shifts once the book is banned. To meet these aims we combine PEN America’s list of 1,586 book bans in the US, self-identified author demographic information for the nearly 800 authors of the books, U.S. school district metadata, and several digital trace data sets, including Google Books profiles, Google Trends, Goodreads reviews, and Twitter discussions. This research contributes to our understanding of the renewed vigor around book bans and seeks to better contextualize its effects in our digitally mediated information environment.\nThis project is funded by a grant from the Social Science Research Council."
+    "text": "I met with my co-author Katie Spoon in Copenhagen to present our work on books bans at IC2S2 (July 2023)\nI moved to Paris, France to begin a postdoc with Jen Schradie at the Center for Research on Social Inequalities at Sciences Po (June 2023)\nI successfully defend my dissertation “The Irony of Openness: Gender Inequality in Self-Governed Knowledge Systems” (May 2023)\nMy article with Sandra González-Bailón about Interventions in Wikipedia’s Gender Gaps wins the Wikimedia Foundation Research Award of The Year for 2023!!\nI discussed How Wikipedia Works on the Brooking’s Institute Tech Tank Podcast (March 2023)\n\nListen here\n\nI led an Art + Feminism Community Hour Session (September 2022)\n\nDetails here\n\nA nice article summarizing my work: Bridging Wikipedia’s Gender Gap, One Article at a Time (Penn News, 2022) by Alina Ladyzhensky\nI presented at the WikiMedia Research Showcase (July 2021)"
   },
   {
     "objectID": "Teaching.html",
     "href": "Teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Drawing from my own research on digital inequalities, I believe that students need a comprehensive education in the many ways that technology shapes and informs their lives. I hope to prepare students to be more thoughtful technologists, able to understand, analyze, and critique the diverse interesections of technology, politics, and society in ways that will be useful beyond their time in the classroom. Whether I am teaching research methods, coding skills, or theory based seminars I strive to make real-world connections and have students apply the material to events and content relevant to their lives."
+    "text": "Drawing from my own research on digital inequalities, I believe that students need a comprehensive education in the many ways that technology shapes and informs their lives. I hope to prepare students to be more thoughtful technologists, able to understand, analyze, and critique the diverse interesections of technology, politics, and society in ways that will be useful beyond their time in the classroom. Whether I am teaching research methods, coding skills, or theory based seminars I strive to make real-world connections and have students apply the material to events and content relevant to their lives.\nI’m happy to give guest lectures at the undergraduate or graduate level introducing computational methods or discussing my research on information environments."
   },
   {
     "objectID": "Teaching.html#r-labs",
@@ -95,7 +46,7 @@
     "href": "Teaching.html#digital-feminisms-syllabus",
     "title": "Teaching",
     "section": "Digital Feminisms Syllabus",
-    "text": "Digital Feminisms Syllabus\nAn example undergrad seminar class (Last updated 2020)"
+    "text": "Digital Feminisms Syllabus\n[In Progress]"
   },
   {
     "objectID": "Teaching.html#github-training",
@@ -105,17 +56,80 @@
     "text": "Github Training\nUsing Github for Social Science Research Tutorial designed for the DiMeNet Research Group (Fall 2021). Find presentation here."
   },
   {
-    "objectID": "News.html",
-    "href": "News.html",
-    "title": "News & Events",
+    "objectID": "Research.html",
+    "href": "Research.html",
+    "title": "Research",
     "section": "",
-    "text": "I successfully defend my dissertation and move to Paris to begin a post doc at Science Po (May/June 2023)\nMy article with Sandra González-Bailón about Interventions in Wikipedia’s Gender Gaps wins the Wikimedia Foundation Research Award of The Year for 2023!!\nI discussed How Wikipedia Works on the Brooking’s Institute Tech Tank Podcast (March 2023)\n\nListen here\n\nI led an Art + Feminism Community Hour Session (September 2022)\n\nDetails here\n\nA nice article summarizing my work: Bridging Wikipedia’s Gender Gap, One Article at a Time (Penn News, 2022) by Alina Ladyzhensky\nI presented at the WikiMedia Research Showcase (July 2021)"
+    "text": "Technology ⋆ Inequality ⋆ Activism ⋆ Information ⋆ Digital Data"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "Research.html#active-info",
+    "href": "Research.html#active-info",
+    "title": "Research",
+    "section": "Active Info",
+    "text": "Active Info\n\nWith Jen Schradie (Sciences Po)\nMore soon!"
+  },
+  {
+    "objectID": "Research.html#changing-landscape-of-data-access-in-social-science-research",
+    "href": "Research.html#changing-landscape-of-data-access-in-social-science-research",
+    "title": "Research",
+    "section": "Changing landscape of data access in social science research",
+    "text": "Changing landscape of data access in social science research\nMore soon!"
+  },
+  {
+    "objectID": "Research.html#book-bans-in-political-context-evidence-from-us-public-schools",
+    "href": "Research.html#book-bans-in-political-context-evidence-from-us-public-schools",
+    "title": "Research",
+    "section": "Book Bans in Political Context: Evidence from US Public Schools",
+    "text": "Book Bans in Political Context: Evidence from US Public Schools\n\nWith Katie Spoon (U Colorado Boulder), Jack LaViolette (Columbia), and Marcelo Silva (Duke)\nUnder Review\nWorking paper now available!\nIn the 2021–2022 school year, more books were banned in U.S. school districts than in any previous year. Book banning and other forms of information censorship have serious implications for democratic processes, and censorship has become a central theme of partisan political rhetoric in the United States. However, there is little empirical work on the exact content, predictors of, and efficacy of this rise in book bans. Using a comprehensive dataset of 2,532 bans that occurred during the 2021–2022 school year from PEN America, combined with county-level administrative data, multiple book-level digital trace datasets, restricted-use book sales data, and a novel crowd-sourced dataset of author demographic information, we find that (i) banned books are disproportionately written by people of color and feature characters of color, both fictional and historical, in children’s books; (ii) counties that have become less conservative over time are more likely to ban books than neighboring counties; and (iii) national levels of interest in books are largely unaffected after they are banned. Together, these results suggest that rather than serving as an effective censorship tactic, book banning in this recent U.S. context, targeted at low-interest children’s books featuring diverse characters, is more similar to a symbolic political action to galvanize shrinking voting blocs.\nThis project is funded by a grant from the Social Science Research Council."
+  },
+  {
+    "objectID": "Research.html#gender-inequality-in-the-open-science-movement",
+    "href": "Research.html#gender-inequality-in-the-open-science-movement",
+    "title": "Research",
+    "section": "Gender Inequality in the Open Science Movement",
+    "text": "Gender Inequality in the Open Science Movement\nStemming from my dissertation work, I have two articles that emprically examine gender gaps in the Open Science movement. The first looks specifically at the field of communication while the second looks at the movement leaders who have published work in some way advocating for Open Science practices or related changes in the field.\n\nGender Gaps in Communication’s Open Science Movement\n\nWith Mia Jovanova (UPenn)\nUnder Review\nWorking paper now available!\n\nCommunication scholarship is increasingly adopting Open Science (OS) practices: sharing code and data, pre-registering studies, and conducting replications. Yet, scholars have also critiqued how the OS movement might create barriers and exacerbate inequalities. As the field aims to better support a more diverse body of scholars, it is imperative to understand who participates in OS. In this pre-registered study, we look at one important area of inequality, author gender, among rates of articles that adopt OS practices versus articles unaffiliated with OS practices. Using computational methods, we categorize author gender and use of OS practices across 4,561 quantitative communication articles. We find prevalent gender gaps, such that women are significantly less likely to lead, and co-author, papers that adopt OS practices relative to papers unaffiliated with OS. These gender gaps are unexplained by journal-level differences or publication year. Our results highlight a tension between the aims of the OS movement and efforts to increase inclusivity in the field. A commitment to truly open science requires a commitment to solving participation gaps. Our work aims to spark a conversation towards better, and more equitable, communication research.\nWe presented this work at ICA 2022 in Paris, France (Computational Methods Division). You can find our pre-registration here.\n\n\n\nGender Gaps in the Open Science Movement: Participation, Citation, Collaboration\nUnder Review\nThe Open Science movement has become a rising force within the social sciences in the past decade, working to establish and institutionalize more responsible research practices and building a suite of digital tools that help scientists register, access, and share work at each stage of the scientific process. Yet for all the needed reform offered by the Open Science movement, strong critiques have emerged, particularly around how the community and tools built by Open Science advocates works to exclude certain researchers, often those who belong to specific race and gender demographics. Assembling a sample of over 3,000 published articles about the movement or its practices, I investigate rates of gender inequality within the Open Science movement. I identify and quantify a gender gap among (1) published authors, (2) within citations, and (3) within the co-authorship network. Additionally, using simulated co-authorship networks, I gauge the effects citing more women, a common recommendation from the citational justice movement, would have for gender equity within the Open Science movement. This work sheds light on the development and growth of Open Science within the social sciences and provides empirical evidence of gender gaps in participation and citation."
+  },
+  {
+    "objectID": "Research.html#the-irony-of-openness-gender-inequality-in-self-governed-knowledge-systems",
+    "href": "Research.html#the-irony-of-openness-gender-inequality-in-self-governed-knowledge-systems",
+    "title": "Research",
+    "section": "The Irony of Openness: Gender Inequality in Self-Governed Knowledge Systems",
+    "text": "The Irony of Openness: Gender Inequality in Self-Governed Knowledge Systems\nOpen knowledge technologies are in many ways the backbone of the Internet, providing reliable information and tools for millions of people every day, often without their awareness. Yet across sites of open knowledge technologies, gender gaps persist and exceed the rates of gender inequality in more closed systems of knowledge production. I deem this pattern the irony of openness. To connect across a range of endeavors I construct a definition of openness applicable to a range of products and participation types. Using a framework of self-governance, I identify the complex set of traits and practices that produce openness and in turn determine the quality of our informational tools and content. Using digital trace data from the processes of knowledge production across three case studies –Wikipedia, Open Source Software, and the Open Science Movement – I both identify repeating forms of gender inequality and evaluate activists attempts to intervene and produce more equitable knowledge. My results indicate both profound gender gaps and document the difficult work of creating change in the governance of open knowledge technologies."
+  },
+  {
+    "objectID": "Research.html#the-gender-divide-in-wikipedia-quantifying-and-assessing-the-impact-of-two-feminist-interventions-2022",
+    "href": "Research.html#the-gender-divide-in-wikipedia-quantifying-and-assessing-the-impact-of-two-feminist-interventions-2022",
+    "title": "Research",
+    "section": "The Gender Divide in Wikipedia: Quantifying and Assessing the Impact of Two Feminist Interventions (2022)",
+    "text": "The Gender Divide in Wikipedia: Quantifying and Assessing the Impact of Two Feminist Interventions (2022)\n\nJournal of Communication\n\n\nwith Sandra González-Bailón\nPaper here\nVideo presentation here\n\nWikipedia has a well-known gender divide affecting its biographical content. This bias not only shapes social perceptions of knowledge, but it can also propagate beyond the platform as its contents are leveraged to correct misinformation, train machine-learning tools, and enhance search engine results. What happens when feminist movements intervene to try to close existing gaps? Through a quantitative analysis of over 11,000 Wikipedia articles, we provide an evaluation of two popular feminist interventions designed to counteract gender inequality within digital information projects. We find that the interventions are successful at adding content about women that would otherwise be missing, but they are less successful at addressing structural biases that limit the visibility of that content. This leads us to argue for a more granular and cumulative analysis of gender gaps in collaborative environments. We also discuss the implications for future scholarship on digital inequalities."
+  },
+  {
+    "objectID": "Research.html#protest-networks-mobilization-and-resilience-book-chapter-2023",
+    "href": "Research.html#protest-networks-mobilization-and-resilience-book-chapter-2023",
+    "title": "Research",
+    "section": "Protest Networks, Mobilization, and Resilience Book Chapter (2023)",
+    "text": "Protest Networks, Mobilization, and Resilience Book Chapter (2023)\nSocial Networks & Social Resilience edited by T.A.B.Snijders, E.Lazega & R.Wittek. – with Sandra González-Bailón\nAvailable here\n The movement Black Lives Matter has spurred massive, international protests since it first emerged around the eponymous Twitter hashtag in 2013. Social network analysis is well primed to answer questions around how movements like BLM gain traction, create or change story frames, enact policy change, and mobilize supporters, both online and offline. Using BLM as an exemplar, this chapter reviews research about the movement that uses network approaches to understand its emergence, growth, and resilience, especially as it enters its second decade and contends with counter movements. More generally, the chapter offers a discussion of the opportunities and challenges associated with incorporating social media data to the analysis of resilience as it manifests in the growth of networked social movements."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Isabelle Langrock",
     "section": "",
-    "text": "About this site"
+    "text": "Hello!\nI am currently a postdoctoral researcher at Le Centre de Recherche sur les Inégalités Sociales (The Center for Research on Social Inequalities) at Sciences Po in Paris, France. At Sciences Po, I’m working with Dr. Jen Schradie to compare information environments between the US and France.\nI received my PhD from the Annenberg School for Communication at the University of Pennsylvania in May 2023. My Dissertation, “The Irony of Openness: Gender Inequality in Self-Governed Knowledge Systems” built a framework for investigating gender gaps across different forms of open knowledge production, including Wikipedia and Open Source Software. I evaluated the work of feminist activists intervening in these gaps in order to identify how inequitable forms of knowledge production persist and the strategies through which they can be overcome. My work speaks to the inter-disciplinary domains of digital governance and organization, information environments, and social activism. I’m a computational social scientist with a particular love for network analysis, text analysis, and digital trace data.\nPrior to grad school, I spent a few years working at the education non-profit Girls Who Code in New York City after receiving my B.A. from the University of Chicago. Outside of my academic life, I can be found reading novels, making elaborate salads, and walking around Paris while listening to gossip podcasts.\nLooking for my university page instead? This way!"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Isabelle Langrock",
+    "section": "Education",
+    "text": "Education\nAnnenberg School for Communication, University of Pennsylvania | Philadelphia, PA\nPhD in Communication (2023)\nM.A. in Communication (2020)\nUniversity of Chicago | Chicago, IL\nB.A. in History, Philosophy, and Social Studies of Science and Medicine (2015)"
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
+    "section": "",
+    "text": "Last Updated: October 2023"
   }
 ]
