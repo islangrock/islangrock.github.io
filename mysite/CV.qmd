@@ -5,67 +5,11 @@ published-title: Langrock CV updated
 
 engine: knitr
 
-cv: 
-  pdf: "https://github.com/islangrock/islangrock.github.io/blob/811ca8d01b39349f25792bc49b96e729209639eb/images/Langrock_CV.pdf?raw=true"
 ---
-*Last Updated: October 2023*
+*Last Updated: August 2024*
 
-```{css, echo=FALSE}
-
-#title-block-header .description {
-
-    display: none;
-
-}
-
-```
+<iframe  width="800"  height="800" src="Langrock_CV.pdf">
+</iframe>
 
 
-```{css echo=FALSE}
 
-.embed-container {
-
-    position: relative;
-
-    padding-bottom: 129%;
-
-    height: 0;
-
-    overflow: hidden;
-
-    max-width: 100%;
-
-}
-
-
-.embed-container iframe,
-
-.embed-container object,
-
-.embed-container embed {
-
-    position: absolute;
-
-    top: 0;
-
-    left: 0;
-
-    width: 100%;
-
-    height: 100%;
-
-}
-
-```
-
-
-```{=html}
-
-
-<div class="embed-container">
-
-  <iframe src="`r rmarkdown::metadata$cv$pdf`" style="border: 0.5px"></iframe>
-
-</div>
-
-```

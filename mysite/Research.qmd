@@ -2,34 +2,41 @@
 title: "Research"
 ---
 
-Technology &Star; Inequality &Star; Activism &Star; Information &Star; Digital Data 
+<span style="color:#9ec995;">Technology &Star;Inequality  &Star; Activism &Star;  Information &Star; Digital Data </span>
+
+You can find a full list of my publications on my [Google Scholar page](https://scholar.google.com/citations?user=Vq9iRYUAAAAJ&hl=fr&authuser=1) or on my [CV](https://islangrock.github.io/CV.html). 
+
 
 # Current Projects 
 
-## Active Info 
-#### With Jen Schradie (Sciences Po)
+## Information in Context -- PostDoctoral Project with Jen Schradie 
+
 More soon! 
 
-## Changing landscape of data access in social science research
-More soon! 
+## Data Access in the Post-API Age 
 
-## Book Bans in Political Context: Evidence from US Public Schools 
-#### With Katie Spoon (U Colorado Boulder), Jack LaViolette (Columbia), and Marcelo Silva (Duke)
-*Under Review* 
+### The Administrative Burden of Social Media Data Access in the Post-API Age 
 
-[Working paper now available!](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4618699) 
+With Jen Schradie
 
-In the 2021–2022 school year, more books were banned in U.S. school districts than in any previous year. Book banning and other forms of information censorship have serious implications for democratic processes, and censorship has become a central theme of partisan political rhetoric in the United States. However, there is little empirical work on the exact content, predictors of, and efficacy of this rise in book bans. Using a comprehensive dataset of 2,532 bans that occurred during the 2021–2022 school year from PEN America, combined with county-level administrative data, multiple book-level digital trace datasets, restricted-use book sales data, and a novel crowd-sourced dataset of author demographic information, we find that (i) banned books are disproportionately written by people of color and feature characters of color, both fictional and historical, in children’s books; (ii) counties that have become less conservative over time are more likely to ban books than neighboring counties; and (iii) national levels of interest in books are largely unaffected after they are banned. Together, these results suggest that rather than serving as an effective censorship tactic, book banning in this recent U.S. context, targeted at low-interest children’s books featuring diverse characters, is more similar to a symbolic political action to galvanize shrinking voting blocs.
+More coming soon! 
 
-This project is funded by a grant from the Social Science Research Council.
+### Social Science Research in the Post-API Age: How data access shapes methods and questions 
+
+In April 2018, Facebook closed the Pages API, a tool designed for advertisers but used by social science researchers for data collection. This sudden restriction threw research designs and protocols into disarray: halting ongoing data collection efforts, making replications impossible, and scrambling the ecosystem of software built off of the API. What can this event -- the first marker of the "Post API Age" (Freelon, 2018) -- tell us about the relationship between data, research questions, and findings? 
+
+Classifying over 70,000 social science abstract between 2006 and 2022 by their method and topic, this project empirically demonstrates how dependent research is on easy, robust, and reliable data access. Preliminary results show that the closure of the Facebook Pages API reduced the computational study of Facebook by more than 50%, attesting to the role of company APIs in shaping social science research. 
+
+I presented preliminary results at a poster at IC2S2 2024 in Philadelphia! 
+
+Working paper avialble
 
 ## Gender Inequality in the Open Science Movement 
 
 Stemming from my dissertation work, I have two articles that emprically examine gender gaps in the Open Science movement. The first looks specifically at the field of communication while the second looks at the movement leaders who have published work in some way advocating for Open Science practices or related changes in the field. 
 
 ### Gender Gaps in Communication's Open Science Movement 
-#### With Mia Jovanova (UPenn)
-*Under Review* 
+ With Mia Jovanova (UPenn) *Under Review* 
 
 [Working paper now available!](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4283210)
 
@@ -45,18 +52,29 @@ You can find our pre-registration [here](https://osf.io/f5cn4/registrations).
 
 The Open Science movement has become a rising force within the social sciences in the past decade, working to establish and institutionalize more responsible research practices and building a suite of digital tools that help scientists register, access, and share work at each stage of the scientific process. Yet for all the needed reform offered by the Open Science movement, strong critiques have emerged, particularly around how the community and tools built by Open Science advocates works to exclude certain researchers, often those who belong to specific race and gender demographics. Assembling a sample of over 3,000 published articles about the movement or its practices, I investigate rates of gender inequality within the Open Science movement. I identify and quantify a gender gap among (1) published authors, (2) within citations, and (3) within the co-authorship network. Additionally, using simulated co-authorship networks, I gauge the effects citing more women, a common recommendation from the citational justice movement, would have for gender equity within the Open Science movement. This work sheds light on the development and growth of Open Science within the social sciences and provides empirical evidence of gender gaps in participation and citation. 
 
-# Dissertation Project
+
+
+# Selected Publications and Projects
+
+## Book Bans in Political Context: Evidence from US Public Schools 
+In *PNAS NEXUS* (2024) with Katie Spoon (U Colorado Boulder), Jack LaViolette (Columbia), and Marcelo Silva (Duke)
+
+[Paper now available!](https://academic.oup.com/pnasnexus/article/3/6/pgae197/7689238?login=true) 
+
+In the 2021–2022 school year, more books were banned in US school districts than in any previous year. Book banning and other forms of information censorship have serious implications for democratic processes, and censorship has become a central theme of partisan political rhetoric in the United States. However, there is little empirical work on the exact content, predictors of, and repercussions of this rise in book bans. Using a comprehensive dataset of 2,532 bans that occurred during the 2021–2022 school year from PEN America, combined with county-level administrative data, multiple book-level digital trace datasets, restricted-use book sales data, and a new crowd-sourced dataset of author demographic information, we find that (i) banned books are disproportionately written by people of color and feature characters of color, both fictional and historical, in children's books; (ii) right-leaning counties that have become less conservative over time are more likely to ban books than neighboring counties; and (iii) national and state levels of interest in books are largely unaffected after they are banned. Together, these results suggest that rather than serving primarily as a censorship tactic, book banning in this recent US context, targeted at low-interest children's books featuring diverse characters, is more similar to symbolic political action to galvanize shrinking voting blocs.
+
+This project is funded by a grant from the Social Science Research Council.
+
 ## The Irony of Openness: Gender Inequality in Self-Governed Knowledge Systems 
+*Dissertation Project*
 
 Open knowledge technologies are in many ways the backbone of the Internet, providing reliable information and tools for millions of people every day, often without their awareness. Yet across sites of open knowledge technologies, gender gaps persist and exceed the rates of gender inequality in more closed systems of knowledge production. I deem this pattern the irony of openness. To connect across a range of endeavors I construct a definition of openness applicable to a range of products and participation types. Using a framework of self-governance, I identify the complex set of traits and practices that produce openness and in turn determine the quality of our informational tools and content. Using digital trace data from the processes of knowledge production across three case studies –Wikipedia, Open Source Software, and the Open Science Movement – I both identify repeating forms of gender inequality and evaluate activists attempts to intervene and produce more equitable knowledge. My results indicate both profound gender gaps and document the difficult work of creating change in the governance of open knowledge technologies.
 
-# Selected Publications 
 
-## **The Gender Divide in Wikipedia: Quantifying and Assessing the Impact of Two Feminist Interventions** (2022)
-#### *Journal of Communication*
-#### with Sandra González-Bailón 
+## **The Gender Divide in Wikipedia: Quantifying and Assessing the Impact of Two Feminist Interventions**
+In *Journal of Communication* (2022) with Sandra González-Bailón (Upenn)
 
-Paper [here](https://academic.oup.com/joc/article-abstract/72/3/297/6529454?redirectedFrom=fulltext&login=true)
+Available [here](https://academic.oup.com/joc/article-abstract/72/3/297/6529454?redirectedFrom=fulltext&login=true)
 
 Video presentation [here](https://www.youtube.com/embed/otN3H-hIImQ?start=2151)
 
@@ -65,8 +83,8 @@ Video presentation [here](https://www.youtube.com/embed/otN3H-hIImQ?start=2151)
 Wikipedia has a well-known gender divide affecting its biographical content. This bias not only shapes social perceptions of knowledge, but it can also propagate beyond the platform as its contents are leveraged to correct misinformation, train machine-learning tools, and enhance search engine results. What happens when feminist movements intervene to try to close existing gaps? Through a quantitative analysis of over 11,000 Wikipedia articles, we provide an evaluation of two popular feminist interventions designed to counteract gender inequality within digital information projects. We find that the interventions are successful at adding content about women that would otherwise be missing, but they are less successful at addressing structural biases that limit the visibility of that content. This leads us to argue for a more granular and cumulative analysis of gender gaps in collaborative environments. We also discuss the implications for future scholarship on digital inequalities.
 
 
-## Protest Networks, Mobilization, and Resilience Book Chapter (2023)
- *Social Networks & Social Resilience* edited by T.A.B.Snijders, E.Lazega & R.Wittek. -- with Sandra González-Bailón 
+## Protest Networks, Mobilization, and Resilience 
+Book Chapter in *Social Networks & Social Resilience* edited by T.A.B.Snijders, E.Lazega & R.Wittek. (2023) -- with Sandra González-Bailón (UPenn)
 
 Available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4154594)
 

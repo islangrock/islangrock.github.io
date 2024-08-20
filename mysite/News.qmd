@@ -2,6 +2,10 @@
 title: "News & Events"
 ---
 
+* Back in Philly to present some preliminary findings from my project *Social Science in the Post API Age* at IC2S2 (July 2024)
+
+* New article published in PNAS NEXUS: [Book Bans in Political Context](https://academic.oup.com/pnasnexus/article/3/6/pgae197/7689238?login=true) (June 2024)
+
 * I met with my co-author Katie Spoon in Copenhagen to present our work on books bans at IC2S2 (July 2023) 
 
 * I moved to Paris, France to begin a postdoc with Jen Schradie at the Center for Research on Social Inequalities at Sciences Po (June 2023)
