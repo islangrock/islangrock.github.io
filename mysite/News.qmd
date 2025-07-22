@@ -2,6 +2,14 @@
 title: "News & Events"
 ---
 
+* Presenting work at ASA (August 2025) 
+
+* Presenting preliminary findings from my postdoc research at the European Survey Research Association in Utrecht and at IC2S2 in Sweden (July 2025) 
+
+* Presenting work about women's participation in open source software at a Digital Inequalities Symposium at CRIS (Paris, Dec 2024)
+
+* Published an [op-ed](https://theconversation.com/most-us-book-bans-target-childrens-literature-featuring-diverse-characters-and-authors-of-color-238731) in The Conversation with co-author Katie Spoon about our research on Book Bans (November 2024)
+
 * Back in Philly to present some preliminary findings from my project *Social Science in the Post API Age* at IC2S2 (July 2024)
 
 * New article published in PNAS NEXUS: [Book Bans in Political Context](https://academic.oup.com/pnasnexus/article/3/6/pgae197/7689238?login=true) (June 2024)

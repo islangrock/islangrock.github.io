@@ -18,7 +18,7 @@ website:
       - News.qmd
 
   page-footer: 
-    right: "Last updated: August 2024" 
+    right: "Last updated: July 2025" 
 
 format:
   html:

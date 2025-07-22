@@ -2,9 +2,17 @@
 title: "Teaching"
 ---
 
-Drawing from my own research on digital inequalities, I believe that students need a comprehensive education in the many ways that technology shapes and informs their lives. Whether I am teaching research methods, coding skills, or theory based seminars, my syllabus features real-world connections where students apply the material to events and content relevant to their lives. 
+# Current Courses
 
-I'm happy to give guest lectures at the undergraduate or graduate level introducing computational methods or discussing my research on information environments.  
+* **Digital Feminisms: Theory and Activism Online** *Fall 2025*. 
+* **Data and The Social World** *Fall 2025*. 
+
+## Past Teaching Experience 
+
+* **Digital Feminism: Theory and Method for Feminism on the Internet** *Spring 2024, Spring 2025*.  Sciences Po (Paris Campus). 
+* **Social Networks.** *Fall 2022 and Spring 2020*. TA (Instructor: Dr. Sandra González-Bailón). University of Pennsylvania 
+* **Introduction to Communication Research.** *Fall 2020*. TA (Instructor: Dr. Yph Lelkes). Graduate seminar. University of Pennsylvania
+* **Digital Inequality.** *Fall 2019*. TA (Instructor: Dr. Julia Ticona). University of Pennsylvania. 
 
 # Teaching Materials 
 ::: {.grid}
@@ -31,13 +39,5 @@ designed for the DiMeNet Research Group (Fall 2021).
 
 :::
 :::
-
-# Teaching Experience 
-
-* **Digital Feminism: Theory and Method for Feminism on the Internet** *Spring 2024*. Instructor of Record. Undergraduate Seminar. Sciences Po (Paris Campus). 
-* **Social Networks.** *Fall 2022 and Spring 2020*. TA (Instructor: Dr. Sandra González-Bailón). Undergraduate Seminar. University of Pennsylvania 
-* **Introduction to Communication Research.** *Fall 2020*. TA (Instructor: Dr. Yph Lelkes). Graduate seminar. University of Pennsylvania
-* **Digital Inequality.** *Fall 2019*. TA (Instructor: Dr. Julia Ticona). Ungraduate Seminar. University of Pennsylvania. 
-
 
 
